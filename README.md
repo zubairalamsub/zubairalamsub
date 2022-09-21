@@ -26,3 +26,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zubairalamsub)  
 
 ![Profile views](https://gpvc.arturio.dev/zubairalamsub)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ebgf672vmog4l6ogmkklb7mo3m&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
