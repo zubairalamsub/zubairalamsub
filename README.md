@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/zubairalamdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubairalamdev" height="30" width="40" /></a>
 <a href="https://fb.com/zubairalamallrerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubairalamallrerd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zubairalam025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zubairalam025" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@zubairalam025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zubairalam025" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/zubairalam025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zubairalam025" height="30" width="40" /></a>
 </p>
 <h3 align="left">Problem Solving:</h3>
 
