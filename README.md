@@ -11,17 +11,10 @@ I'm a passionate **Software Developer** specializing in **.NET, Angular, and SQL
 ---
 
 ## 🛠️ Languages & Technologies:
-### **Frameworks & Libraries:**
-![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg) ![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)
-
-### **Programming Languages:**
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-### **Databases:**
-![SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
-
-### **Version Control & DevOps:**
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+- **Frameworks & Libraries:** Angular, .NET
+- **Programming Languages:** C#, JavaScript
+- **Databases:** Microsoft SQL Server
+- **Version Control & DevOps:** Git
 
 ---
 
